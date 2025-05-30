@@ -42,6 +42,6 @@ for file in python_files:
 def malicious_code():
     print("YOU HAVE BEEN INFECTED HAHAHA !!!")
     
-malicious_code
+malicious_code()
 
 # VIRUS SAYS BYE!
